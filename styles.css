@@ -71,6 +71,20 @@ main > span{
    
 }
 
+.toggle-icon-btn{
+   padding: 4px;
+    border-radius: 0.25em;
+    
+    width: 35px;
+    color: rgb(38 27 71);
+    background-color: transparent;
+    border: none;
+}
+
+
+
+
+
 @media(min-width: 320px) and (max-width: 767px){
     .main{ 
         top : 0 !important;
@@ -225,6 +239,8 @@ footer{
     max-height: 15px;
 }
 
+
+
 @media(min-width: 768px){
     .footer{
         display: flex;
@@ -256,3 +272,6 @@ footer{
         margin-top: 8%;
     }
 }
+
+
+
